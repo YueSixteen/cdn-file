@@ -1,2 +1,3 @@
 # cdn-file
 CDN
+jsDelivr
