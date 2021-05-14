@@ -39,13 +39,13 @@ body{
     align-items: center;
     justify-content: center;
     background-color: #efeeee;
-    transition: box-shadow 0.05s ease-out;
+    /* transition: box-shadow 0.05s ease-out; */
     position: relative;
 }
 
 .container .box .img  img{
     width: 60px;
-    transition: width 0.05s ease-out;
+    /* transition: width 0.05s ease-out; */
 }
 .container .box p{
     color: slategrey;
@@ -55,9 +55,9 @@ body{
     0px 0px 0px rgba(255, 255, 255, 0.8),
     inset 18px 18px 30px rgba(0, 0, 0, 0.1),
     inset -18px -18px 30px rgba(255, 255, 255, 1);
-    transition: box-shadow 0.05s ease-out;
+    /* transition: box-shadow 0.05s ease-out; */
 }
 .container .box .img:hover img{
     width: 58px;
-    transition: width 0.05s ease-out;
+    /* transition: width 0.05s ease-out; */
 }
