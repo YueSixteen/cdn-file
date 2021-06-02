@@ -12,7 +12,7 @@ body{
     /* background: url("https://area.sinaapp.com/bingImg/"); */
 }
 .container{
-    width: 1200px;
+    width: 1140px;
     height: 600px;
     display: flex;
     justify-content: space-around;
